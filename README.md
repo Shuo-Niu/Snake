@@ -1,6 +1,6 @@
 # Snake
 
-Visual Studio project folder
+Visual Studio project folder.
 
 Work on p5.js. Press `←` `↑` `→` `↓` to control the snake.
 
